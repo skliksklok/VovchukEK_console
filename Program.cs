@@ -9,6 +9,7 @@
         // Вовчук Евгений Константинович Ам-1-25
         //solve task1
         //solve task2
+        //solve task3
     }
     static public double Sqr(double X);
 }
