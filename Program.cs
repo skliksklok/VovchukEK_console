@@ -11,3 +11,4 @@
     }
     static public double Sqr(double X);
 }
+"//solve task4" 
