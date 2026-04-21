@@ -10,7 +10,7 @@
         //solve task1
         //solve task2
         //solve task3
+        //solve task4
     }
     static public double Sqr(double X);
-}
-//solve task3 
+    }
